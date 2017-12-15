@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ADC_DMA/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>0</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7720-1442</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ADC_DMA</ExpandedNode><ExpandedNode>ADC_DMA/EWARM</ExpandedNode><ExpandedNode>ADC_DMA/FWLib</ExpandedNode><ExpandedNode>ADC_DMA/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20685-2223</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x5706;\ADC_DMA\main.c</Filename><XPos>0</XPos><YPos>159</YPos><SelStart>5418</SelStart><SelEnd>5418</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x5706;\ADC_DMA\MotorControl.c</Filename><XPos>0</XPos><YPos>110</YPos><SelStart>3570</SelStart><SelEnd>3570</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x5706;\ADC_DMA\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>593</YPos><SelStart>1590</SelStart><SelEnd>1590</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x5706;\ADC_DMA\MotorControl.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1463</SelStart><SelEnd>1463</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012ffdb0><key>iaridepm.enu1</key></Toolbar-012ffdb0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>518</Bottom><Right>31</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>876897</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>30</Bottom><Right>1011</Right><x>-2</x><y>-2</y><xscreen>1013</xscreen><yscreen>0</yscreen><sizeHorzCX>1003964</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
